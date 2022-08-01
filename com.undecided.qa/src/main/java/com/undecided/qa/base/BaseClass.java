@@ -1,4 +1,4 @@
-package com.geico.qa.base;
+package com.undecided.qa.base;
 
 import org.testng.annotations.BeforeMethod;
 

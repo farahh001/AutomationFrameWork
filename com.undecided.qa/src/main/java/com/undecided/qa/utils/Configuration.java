@@ -1,4 +1,4 @@
-package com.geico.qa.utils;
+package com.undecided.qa.utils;
 
 import java.io.FileInputStream;
 import java.io.IOException;
